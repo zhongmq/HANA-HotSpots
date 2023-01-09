@@ -1,1 +1,1 @@
-# HANA-HotSpots v 2.3
+# HANA-HotSpots v 2.4
